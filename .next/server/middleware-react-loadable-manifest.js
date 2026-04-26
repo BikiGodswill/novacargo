@@ -1,1 +1,1 @@
-self.__REACT_LOADABLE_MANIFEST="{}"
+self.__REACT_LOADABLE_MANIFEST="{\"app\\\\track\\\\page.js -> @/components/LiveMap\":{\"id\":\"app\\\\track\\\\page.js -> @/components/LiveMap\",\"files\":[\"static/chunks/_app-pages-browser_components_LiveMap_js.js\"]},\"components\\\\LiveMap.js -> leaflet\":{\"id\":\"components\\\\LiveMap.js -> leaflet\",\"files\":[\"static/chunks/_app-pages-browser_node_modules_leaflet_dist_leaflet-src_js.js\"]}}"
